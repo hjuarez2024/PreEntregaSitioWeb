@@ -50,7 +50,3 @@ Hernán Darío Juárez
 ## Colaboradores
 
 - No.
-
-## Notas
-
-Este proyecto es educativo y forma parte de una serie de clases sobre desarrollo web frontend.
